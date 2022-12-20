@@ -1,2 +1,2 @@
-# ar-det-fredag
+# Är det fredag?
 Sida som visar om det är fredag
